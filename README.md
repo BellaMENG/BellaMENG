@@ -1,4 +1,4 @@
-<a href="https://twitter.com/" target="_blank" rel="nofollow"><img align="right" alt="Faraz's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/" target="_blank" rel="nofollow"><img align="right" alt="Faraz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
 
 ### Hi there 👋 I'm Bella.
 
@@ -12,7 +12,7 @@
 
 <!--
 **BellaMENG/BellaMENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://twitter.com/" target="_blank" rel="nofollow"><img align="right" alt="Faraz's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/" target="_blank" rel="nofollow"><img align="right" alt="Faraz's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
