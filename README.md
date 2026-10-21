@@ -1,3 +1,3 @@
 ### Hi there 👋 I'm Bella.
 
-[Personal website](bellameng.com)
+[Personal website](https://www.bellameng.com)
